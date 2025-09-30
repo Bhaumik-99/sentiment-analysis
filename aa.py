@@ -23,7 +23,7 @@ class Sentiment140Trainer:
         self.best_model_name = None
         
         # Common English stopwords
-        self.stop_words = 
+        self.stop_words = {
             'i', 'me', 'my', 'myself', 'we', 'our', 'ours', 'ourselves', 'you', "you're",
             "you've", "you'll", "you'd", 'your', 'yours', 'yourself', 'yourselves', 'he',
             'him', 'his', 'himself', 'she', "she's", 'her', 'hers', 'herself', 'it', "it's",
