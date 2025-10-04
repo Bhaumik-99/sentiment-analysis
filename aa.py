@@ -17,7 +17,7 @@ warnings.filterwarnings('ignore')
 
 class Sentiment140Trainer:
     def __init__(self)
-        self.models = {}
+        self.models = {}:
         self.vectorizer = None   
         self.best_model = None
         self.best_model_name = None
