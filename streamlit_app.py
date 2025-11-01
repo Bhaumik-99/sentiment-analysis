@@ -9,7 +9,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import pickle
 import re 
-import nltk  
+import nltk   
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
