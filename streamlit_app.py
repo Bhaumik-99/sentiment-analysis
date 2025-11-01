@@ -1,7 +1,3 @@
-# Custom Sentiment Analysis Streamlit App
-# Save as: streamlit_app.py
-# Run with: streamlit run streamlit_app.py
-
 import streamlit as st
 import pandas as pd
 import numpy as np
